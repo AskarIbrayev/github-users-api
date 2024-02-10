@@ -1,6 +1,7 @@
 # Github users API
 
 - This project provides simple and neat searching of github clients.
+- Available at github pages https://askaribrayev.github.io/github-users-api/
 - It shows info about the user and list of his repos. 
 - You can also search among his repos and go the github to see the content by clicking on in. 
 - There is also link to the github page of the project if it exists.
